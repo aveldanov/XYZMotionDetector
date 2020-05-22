@@ -48,6 +48,11 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="xLabel" destination="x6J-bM-PbC" id="L2l-YH-N1u"/>
+                        <outlet property="yLabel" destination="Mkh-y6-DB7" id="LLy-m8-BnU"/>
+                        <outlet property="zLabel" destination="FM1-he-bBF" id="awC-HE-FSs"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
